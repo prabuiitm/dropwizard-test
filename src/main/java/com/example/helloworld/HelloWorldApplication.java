@@ -26,7 +26,8 @@ public class HelloWorldApplication extends Application<HelloWorldConfiguration> 
                 Environment environment) {
 		final HelloWorldResource resource = new HelloWorldResource(
 		    configuration.getTemplate(),
-		    configuration.getDefaultName()
+		    configuration.getDefaultName(),
+		    configuration.getDefaultName2()
 		);
 		environment.jersey().register(resource);
 		final TemplateHealthCheck healthCheck =

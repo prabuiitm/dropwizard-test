@@ -16,18 +16,20 @@ import java.util.Optional;
 public class HelloWorldResource {
     private final String template;
     private final String defaultName;
+    private final String defaultName2;
     private final AtomicLong counter;
 
-    public HelloWorldResource(String template, String defaultName) {
+    public HelloWorldResource(String template, String defaultName, String defaultName2) {
         this.template = template;
         this.defaultName = defaultName;
+        this.defaultName2 = defaultName2;
         this.counter = new AtomicLong();
     }
 
     @GET
     @Timed
-    public Saying sayHello(@QueryParam("name") Optional<String> name) {
-        final String value = String.format(template, name.orElse(defaultName));
+    public Saying sayHello(@QueryParam("name") Optional<String> name, @QueryParam("name2") Optional<String> name2) {
+        final String value = String.format(template, name.orElse(defaultName),name2.orElse(defaultName2));
         return new Saying(counter.incrementAndGet(), value);
     }
 }
