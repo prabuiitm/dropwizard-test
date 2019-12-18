@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94e22f78-2400-409f-8533-e47e5a23ba58" name="Default Changelist" comment="included social network login">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/target.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/credentials.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropwizard-hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dropwizard-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid17418.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid19947.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid25174.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid25701.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid26637.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid28058.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid29254.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs_err_pid29609.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dropwizard-test/com/example/helloworld/HelloWorldApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dropwizard-test/com/example/helloworld/HelloWorldConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dropwizard-test/com/example/helloworld/api/Saying.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dropwizard-test/com/example/helloworld/health/TemplateHealthCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/dropwizard-test/com/example/helloworld/resources/HelloWorldResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/helloworld/SocialNetworkAuthenticator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/helloworld/SocialNetworkConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/helloworld/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/helloworld/resources/AuthenticationResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/helloworld/resources/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/helloworld/SocialNetworkApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/helloworld/SocialNetworkAuthenticator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/helloworld/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/helloworld/resources/AuthenticationResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/helloworld/HelloWorldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/helloworld/SocialNetworkApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/helloworld/HelloWorldConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/helloworld/HelloWorldResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/helloworld/HelloWorldApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/helloworld/HelloWorldConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/helloworld/resources/HelloWorldResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/dropwizard-hello-2.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/dropwizard-hello-2.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-dropwizard-hello-2.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-dropwizard-hello-2.0.1-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V9lY2MBQ7Flcb5UPwSwF1PXes2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dropwizard-hello-2.0.1-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/dropwizard-hello-2.0.1-SNAPSHOT.jar" />
+      <option name="PROGRAM_PARAMETERS" value="server credentials.yml" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.dropwizard-hello-2.0.1-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94e22f78-2400-409f-8533-e47e5a23ba58" name="Default Changelist" comment="" />
+      <created>1576673236605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576673236605</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="included social network login" />
+    <option name="LAST_COMMIT_MESSAGE" value="included social network login" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="459" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576673324849">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state x="459" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/69.24.1851.1056@69.24.1851.1056" timestamp="1576673324849" />
+    <state x="527" y="135" key="CommitChangelistDialog2" timestamp="1576673553693">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state x="527" y="135" key="CommitChangelistDialog2/69.24.1851.1056@69.24.1851.1056" timestamp="1576673553693" />
+    <state width="1805" height="296" key="GridCell.Tab.0.bottom" timestamp="1576673553782">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state width="1805" height="296" key="GridCell.Tab.0.bottom/69.24.1851.1056@69.24.1851.1056" timestamp="1576673553782" />
+    <state width="1805" height="296" key="GridCell.Tab.0.center" timestamp="1576673553781">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state width="1805" height="296" key="GridCell.Tab.0.center/69.24.1851.1056@69.24.1851.1056" timestamp="1576673553781" />
+    <state width="1805" height="296" key="GridCell.Tab.0.left" timestamp="1576673553781">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state width="1805" height="296" key="GridCell.Tab.0.left/69.24.1851.1056@69.24.1851.1056" timestamp="1576673553781" />
+    <state width="1805" height="296" key="GridCell.Tab.0.right" timestamp="1576673553781">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state width="1805" height="296" key="GridCell.Tab.0.right/69.24.1851.1056@69.24.1851.1056" timestamp="1576673553781" />
+    <state x="656" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1576673246194">
+      <screen x="69" y="24" width="1851" height="1056" />
+    </state>
+    <state x="656" y="381" key="com.intellij.ide.util.TipDialog/69.24.1851.1056@69.24.1851.1056" timestamp="1576673246194" />
+  </component>
+</project>
